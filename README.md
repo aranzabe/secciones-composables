@@ -1,4 +1,4 @@
-# Secciones comosables
+# Secciones composables
 
 # **Recomposición**
 
